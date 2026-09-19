@@ -1,2 +1,2 @@
-# CODY
-a password generator 
+# 
+it's just a password generator what do you expect? 
